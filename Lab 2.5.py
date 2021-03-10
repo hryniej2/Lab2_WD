@@ -1,2 +1,2 @@
 ciag = input("Podaj słowo: ")
-print (ciag.count('a'))
+print(ciag.count('a'))
